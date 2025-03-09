@@ -1,0 +1,17 @@
+.container {
+    max-width: 800px;
+}
+
+h2 {
+    color: #007bff;
+    margin-bottom: 30px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.text-danger {
+    font-size: 0.9em;
+    margin-top: 5px;
+}
